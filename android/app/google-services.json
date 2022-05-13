@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900548782291",
+    "project_id": "farmersmarketj",
+    "storage_bucket": "farmersmarketj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900548782291:android:5678c7d9f62027dbe28c26",
+        "android_client_info": {
+          "package_name": "com.jas.farmersmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900548782291-u0qakcj59v62rm8lqktkd25ndceupc3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVJFTsuI9F52qyUdaeuF9NvAefwSkpZ-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900548782291-u0qakcj59v62rm8lqktkd25ndceupc3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
